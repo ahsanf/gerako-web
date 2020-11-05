@@ -225,7 +225,7 @@ iframe {
     justify-content: center;
     align-items: center;
     padding: 15px;
-    background-image: url("/images/banner_2.png");
+    background-image: url("https://raw.githubusercontent.com/ahsanf/gerako-web/master/images/banner_2.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
