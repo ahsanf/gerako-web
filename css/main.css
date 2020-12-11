@@ -264,9 +264,15 @@ iframe {
     width: 316px;
 }
 
-.login100-pic img {
+.login100-pic-img {
     padding: 30px;
     margin: 0px auto;
+    max-width: 100%;
+}
+
+.login100-pic-img-2 {
+    padding: 30px;
+    margin-top: 65px;
     max-width: 100%;
 }
 
